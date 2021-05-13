@@ -1,2 +1,2 @@
 # movie-review-classification
-Classify negative and positive movie reviews using logistic regression
+Homework assignment to classify negative and positive movie reviews using logistic regression
