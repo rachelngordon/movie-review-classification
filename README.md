@@ -1,5 +1,5 @@
 # movie-review-classification
-Homework assignment to classify negative and positive movie reviews using logistic regression
+Classify negative and positive movie reviews using logistic regression
 
 In order to run this script (Gordon_HW3.py) successfully, make sure numpy, pandas, and scikit-learn are installed.
 
